@@ -1,6 +1,7 @@
 # What is it and why
 Tired of Roblox sneaking onto your PC? This program will help! Simply download it and add it to startup, and it will prevent Roblox from launching on your computer.
 Go_RobloxKiller is a program that starts and runs in the background, preventing you from launching Roblox on your PC!
+( I was asked to make this programm )
 ## Installation
 You can build the .exe by yourself or install a [ready-to-use version](https://github.com/Wrtgvr2/Go_RobloxKiller/releases/tag/v1)
 ## Build
